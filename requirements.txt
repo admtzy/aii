@@ -1,0 +1,15 @@
+python-dotenv
+ultralytics
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
+openpyxl
+joblib
+fastapi
+uvicorn[standard]
+python-multipart

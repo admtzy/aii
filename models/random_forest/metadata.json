@@ -1,0 +1,22 @@
+{
+    "features": [
+        "berat_kedelai_kg",
+        "good_persen"
+    ],
+    "targets": [
+        "hasil_tahu_aktual_kg",
+        "waktu_memasak_aktual_jam"
+    ],
+    "best_params": {
+        "n_estimators": 300,
+        "max_depth": 12,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_features": 1.0
+    },
+    "validation_normalized_mae": 0.04555779733883582,
+    "random_state": 42,
+    "training_rows": 2100,
+    "validation_rows": 600,
+    "final_fit_rows": 2700
+}
